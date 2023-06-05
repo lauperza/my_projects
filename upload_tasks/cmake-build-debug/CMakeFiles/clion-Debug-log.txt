@@ -1,0 +1,3 @@
+/home/lau/CLionProjects/converter/CMakeLists.txt -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" /home/lau/CLionProjects/upload_tasks
+/home/lau/CLionProjects/converter/CMakeLists.txt: línea 1: error sintáctico cerca del elemento inesperado `VERSION'
+/home/lau/CLionProjects/converter/CMakeLists.txt: línea 1: `cmake_minimum_required(VERSION 3.26)'
